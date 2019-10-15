@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mcemu",
+  "name": "MCEmu",
+  "description": "Run emulators in Minecraft!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["DeltaTwoForce"],
+  "credits": "https://github.com/tanakh/bjne-java [NES EMULATOR]",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

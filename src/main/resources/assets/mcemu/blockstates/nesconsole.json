@@ -1,0 +1,10 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "model": "mcemu:nesconsole"
+    },
+    "variants": {
+        "normal": {"model": "mcemu:nesconsole"},
+        "inventory": {"model": "mcemu:nesconsole"}
+    }
+}
